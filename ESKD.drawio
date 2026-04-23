@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="RIkHBJpjI7M3lxFXFHg9">
-    <mxGraphModel dx="1862" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,6 +132,42 @@
         </mxCell>
         <mxCell id="SosHE1faKxEvzNyMtJzr-24" parent="SosHE1faKxEvzNyMtJzr-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
           <mxGeometry height="26" width="160" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="СП" vertex="1">
+          <mxGeometry height="350" width="233" x="-553" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-10" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: Документация" vertex="1">
+          <mxGeometry height="26" width="233" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-11" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ field: Комплексы&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="233" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-12" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: Сборочные единицы" vertex="1">
+          <mxGeometry height="42" width="233" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-13" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: Детали" vertex="1">
+          <mxGeometry height="26" width="233" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-16" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: Стандартные издели" vertex="1">
+          <mxGeometry height="44" width="233" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-17" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: Прочие изделия" vertex="1">
+          <mxGeometry height="26" width="233" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-18" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: Материалы" vertex="1">
+          <mxGeometry height="26" width="233" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-19" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ field: Комплекты&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="233" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-20" parent="T4NngQ3JrdokgZA7NluD-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ field: Возможность добавления собственных полей, например, ст дет п/ф,покупные итд&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="233" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-21" parent="1" style="html=1;whiteSpace=wrap;" value="Object" vertex="1">
+          <mxGeometry height="50" width="110" x="-190" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="T4NngQ3JrdokgZA7NluD-22" edge="1" parent="1" source="T4NngQ3JrdokgZA7NluD-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T4NngQ3JrdokgZA7NluD-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
